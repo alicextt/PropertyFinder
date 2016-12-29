@@ -19,3 +19,5 @@ Need to add
 to `ios/PropertyFinder/Info.plist` to allow HTTP request
 
 See the screenshot in Info.plist to view the corresponding change
+
+Also to enable Location, see instruction for `Add_Location` png
